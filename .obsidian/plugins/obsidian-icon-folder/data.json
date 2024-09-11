@@ -1,0 +1,156 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 18,
+    "emojiStyle": "native",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "FasBookBible",
+      "TiFileTypeSql",
+      "TiSql",
+      "BoBxsCog",
+      "FarMap",
+      "TiNotes",
+      "SiArchlinux",
+      "SiMtr"
+    ],
+    "recentlyUsedIconsSize": 20,
+    "rules": [
+      {
+        "icon": "SiArchlinux",
+        "rule": "Linux and Off-work\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "icon": "FasBookBible",
+        "rule": "Notes/Bash Bible\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "icon": "TiFileTypeSql",
+        "rule": "Notes/SQL Notes/View and Query Examples\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 2,
+        "useFilePath": true
+      },
+      {
+        "icon": "TiFileTypeSql",
+        "rule": "Notes/SQL Notes/SQL Key Words\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 3,
+        "useFilePath": true
+      },
+      {
+        "icon": "TiFileTypeSql",
+        "rule": "Notes/SQL Notes\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 4,
+        "useFilePath": true
+      },
+      {
+        "icon": "TiSql",
+        "rule": "Notes/Process'/SQL & Backend\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 5,
+        "useFilePath": true
+      },
+      {
+        "icon": "BoBxsCog",
+        "rule": "Notes/Process'/SalesPad\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 6,
+        "useFilePath": true
+      },
+      {
+        "icon": "BoBxsCog",
+        "rule": "Notes/Process'/GP\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 7,
+        "useFilePath": true
+      },
+      {
+        "icon": "BoBxsCog",
+        "rule": "Notes/Process'/Buying Events\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 8,
+        "useFilePath": true
+      },
+      {
+        "icon": "BoBxsCog",
+        "rule": "Notes/Process'/Abbyy\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 9,
+        "useFilePath": true
+      },
+      {
+        "icon": "BoBxsCog",
+        "rule": "Notes/Process'\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 10,
+        "useFilePath": true
+      },
+      {
+        "icon": "FarMap",
+        "rule": "Maps\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 11,
+        "useFilePath": true
+      },
+      {
+        "icon": "TiNotes",
+        "rule": "Notes/Google IT Support Course\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 12,
+        "useFilePath": true
+      },
+      {
+        "icon": "TiNotes",
+        "rule": "Notes/General\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 13,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": -24
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": true,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true,
+    "debugMode": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconInTitlePosition": "above",
+    "lucideIconPackType": "native"
+  },
+  "Linux and Off-work": {
+    "iconName": "SiArchlinux",
+    "iconColor": "#ffffff"
+  },
+  "Maps": "FarMap",
+  "Linux and Off-work/D&D Obsidian plugin Backup.md": "SiArchlinux",
+  "Index": "TiNotes",
+  "Index/Bash Bible": "FasBookBible",
+  "Index/SQL Notes": "TiFileTypeSql",
+  "Index/Process'": "BoBxsCog",
+  "Index/SQL Notes/View and Query Examples": "TiFileTypeSql",
+  "Index/Process'/SQL & Backend": "TiSql",
+  "Index/Process'/SQL & Backend/Changing HTS, COO, and Weight in the tables.md": "TiSql",
+  "Index/Process'/SQL & Backend/Exceptions Report.md": "TiSql",
+  "Index/Process'/SQL & Backend/Looking into the ImageExportHistory table.md": "TiSql",
+  "Index/Process'/SQL & Backend/Missing AP Doc - Fix.md": "TiSql",
+  "Index/Process'/SQL & Backend/Open Balance - Kick off.md": "TiSql",
+  "Index/Process'/SQL & Backend/PO Create - Scribe Side.md": "TiSql"
+}

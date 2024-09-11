@@ -1,0 +1,339 @@
+{
+  "main": {
+    "id": "dd116a36c674d9d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfef48fb617c2f2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d15f2398cf26dcc3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Directory/Directory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5180f37ed7242150",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index/Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "973a23815b914d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utilities/Character Count.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e9e5530f4c86dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Fall Semi-Annual.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "194339667a5ea8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux and Off-work/Linux build and plans.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a94e5800437cad4",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-google-calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "665c3941f811ed80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Item numbers to change with the PSTL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc9c8d010c9189af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Name.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb77c65f6c794457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta Bind.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67097808c5b0a1aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2adeee1e0374663c",
+        "type": "tabs",
+        "dimension": 67.78063410454156,
+        "children": [
+          {
+            "id": "ac8d95f24676bb73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6efe6c9cd67082b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9bd8547dd991f578",
+        "type": "tabs",
+        "dimension": 32.21936589545844,
+        "children": [
+          {
+            "id": "d35c10df27ca3455",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "right": {
+    "id": "8fb8133a89572eaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "666c362b5302cf07",
+        "type": "tabs",
+        "dimension": 63.061797752808985,
+        "children": [
+          {
+            "id": "c5543df2568d9db4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Character Name.md"
+              }
+            }
+          },
+          {
+            "id": "7a033c303fdf774e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "00474a83150857d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fb6d62fac034d30",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2b786c56a07fa354",
+        "type": "tabs",
+        "dimension": 36.93820224719101,
+        "children": [
+          {
+            "id": "9236ddd08ee7c27f",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ae2dd8d83263fcc",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "81583a63e34fe1ce",
+            "type": "leaf",
+            "state": {
+              "type": "PROGRESS_CLOCKS_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "obsidian-custom-frames:Open Wedding Google Calendar": false,
+      "obsidian-custom-frames:Open Orion": false,
+      "obsidian-custom-frames:Open 5e Tools": false,
+      "widgets:Add widget": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "dashboard-navigator:Open dashboard navigator": false
+    }
+  },
+  "active": "cc9c8d010c9189af",
+  "lastOpenFiles": [
+    "Meta Bind.md",
+    "Character Name.md",
+    "z_Assets/Misc/ImagePlaceholder.png.md",
+    "Directory/Directory.md",
+    "Item numbers to change with the PSTL.md",
+    "z_Assets/Misc",
+    "z_Assets",
+    "Index/General/To-Do.md",
+    "-Character Sheet- {Character Name}.md",
+    "Index/Index.md",
+    "Events/Fall Semi-Annual.md",
+    "Linux and Off-work/Linux build and plans.md",
+    "Linux and Off-work/Linux and Off-work.md",
+    "Utilities/Character Count.md",
+    "Utilities/Key Terms/Gate_2.md",
+    "Events/Summer Specialty.md",
+    "Template - Player Character.md",
+    "Experimnets",
+    "Linux and Off-work/D&D Obsidian plugin Backup.md",
+    "Index/Google IT Support Course/System Administration and IT Infrastructure Services.md",
+    "Index/Process'/SalesPad/Changing email on PO.md",
+    "Index/Process'/Magento/Address SYNC.md",
+    "Pasted image 20240528143732.png",
+    "DC Process.canvas",
+    "Index/Process'/DC Scanning Procces/Starting.md",
+    "Index/Process'/DC Scanning Procces/Middle.md",
+    "Index/Process'/DC Scanning Procces/Ending.md",
+    "Index/Process'/DC Scanning Procces",
+    "Index/Bash Bible/Bash Bible.md",
+    "Index/General/Resetting and Changing Passwords.md",
+    "Index/Google IT Support Course/Technical Support Fundamentals.md",
+    "Index/Process'/SalesPad/Updating Zebra Wearable Device.md",
+    "Index/Process'/Magento",
+    "Index/Process'/Invoices",
+    "Events",
+    "Utilities/Images/RickyFoots.jpg",
+    "Utilities/Images/1323467.png",
+    "Utilities/Images/20231213_093951.jpg",
+    "Utilities/Images/RickyFoots 1.jpg",
+    "Utilities/Images/Pasted image 20230308151358.png",
+    "/Notes/General",
+    "/Notes",
+    "Utilities/Images/Pasted image 20230531145551.png",
+    "Directory",
+    "Maps/Test Map.canvas",
+    "Utilities/Images/Pasted image 20231106094035.png",
+    "Utilities/Images/Pasted image 20230914142102.png",
+    "Utilities/Images/Pasted image 20230918104611.png"
+  ]
+}

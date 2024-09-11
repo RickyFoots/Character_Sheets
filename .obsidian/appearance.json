@@ -1,0 +1,13 @@
+{
+  "accentColor": "#1d24d7",
+  "cssTheme": "ITS Theme",
+  "translucency": true,
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "Jusify",
+    "Clean Wiki Style Callout Box",
+    "Clean_Wiki_Style_Callout_Box",
+    "MCL Wide Views",
+    "Meta-Bind"
+  ]
+}

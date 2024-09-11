@@ -1,0 +1,2240 @@
+{
+  "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
+  "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "standard": {
+      "standard": {
+        "currentFile": {
+          "count": 11,
+          "lastUpdated": 1685560793936
+        }
+      }
+    },
+    "process": {
+      "process": {
+        "currentFile": {
+          "count": 9,
+          "lastUpdated": 1684250991540
+        }
+      }
+    },
+    "access": {
+      "access": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1684272413127
+        }
+      }
+    },
+    "everything": {
+      "everything": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1684251066423
+        }
+      }
+    },
+    "Joseph": {
+      "Joseph": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683643625643
+        }
+      }
+    },
+    "Jacquard": {
+      "Jacquard": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683643628920
+        }
+      }
+    },
+    "engine": {
+      "engine": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1683644418291
+        }
+      }
+    },
+    "Algorithm": {
+      "Algorithm": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683644238645
+        }
+      }
+    },
+    "algorithm": {
+      "algorithm": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683644371381
+        }
+      }
+    },
+    "computer": {
+      "computer": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1684254054083
+        }
+      }
+    },
+    "which": {
+      "which": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1684247333394
+        }
+      }
+    },
+    "created": {
+      "created": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1684347541050
+        }
+      }
+    },
+    "Computers": {
+      "Computers": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683733430962
+        }
+      }
+    },
+    "Technology": {
+      "Technology": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1683816529928
+        }
+      }
+    },
+    "ASCII": {
+      "ASCII": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683734186857
+        }
+      }
+    },
+    "represents": {
+      "represents": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683734209764
+        }
+      }
+    },
+    "globalsupport@zebra.com": {
+      "globalsupport@zebra.com": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1683735184666
+        }
+      }
+    },
+    "Architecture": {
+      "Architecture": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683736900522
+        }
+      }
+    },
+    "complex": {
+      "complex": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683736957913
+        }
+      }
+    },
+    "system": {
+      "system": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1684254231864
+        }
+      }
+    },
+    "abstraction": {
+      "abstraction": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683737177894
+        }
+      }
+    },
+    "Hardware": {
+      "Hardware": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684444528484
+        }
+      }
+    },
+    "physical": {
+      "physical": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1684272611936
+        }
+      }
+    },
+    "monitor": {
+      "monitor": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1684253178980
+        }
+      }
+    },
+    "Which": {
+      "Which": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683744309754
+        }
+      }
+    },
+    "Software": {
+      "Software": {
+        "currentFile": {
+          "count": 11,
+          "lastUpdated": 1684508192446
+        }
+      }
+    },
+    "programmer": {
+      "programmer": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684346497535
+        }
+      }
+    },
+    "account": {
+      "account": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683744716742
+        }
+      }
+    },
+    "everyone": {
+      "everyone": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683744760414
+        }
+      }
+    },
+    "interact": {
+      "interact": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684252406779
+        }
+      }
+    },
+    "Instructions": {
+      "Instructions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683754619308
+        }
+      }
+    },
+    "instructions": {
+      "instructions": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684787696379
+        }
+      }
+    },
+    "Popular": {
+      "Popular": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683754770288
+        }
+      }
+    },
+    "manufacturer’s": {
+      "manufacturer’s": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685563009872
+        }
+      }
+    },
+    "currently": {
+      "currently": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684347902809
+        }
+      }
+    },
+    "different": {
+      "different": {
+        "currentFile": {
+          "count": 9,
+          "lastUpdated": 1685562120432
+        }
+      }
+    },
+    "Socket": {
+      "Socket": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683755213729
+        }
+      }
+    },
+    "There": {
+      "There": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683755357779
+        }
+      }
+    },
+    "motherboard": {
+      "motherboard": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1684166064717
+        }
+      }
+    },
+    "Motherboard": {
+      "Motherboard": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683815525950
+        }
+      }
+    },
+    "Chipsets": {
+      "Chipsets": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683815556758
+        }
+      }
+    },
+    "decide": {
+      "decide": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683815576525
+        }
+      }
+    },
+    "components": {
+      "components": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683815586979
+        }
+      }
+    },
+    "output": {
+      "output": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684251939530
+        }
+      }
+    },
+    "modern": {
+      "modern": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684165520586
+        }
+      }
+    },
+    "Northbridge": {
+      "Northbridge": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683815888451
+        }
+      }
+    },
+    "chipsets": {
+      "chipsets": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683815896206
+        }
+      }
+    },
+    "graphics": {
+      "graphics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683816016345
+        }
+      }
+    },
+    "described": {
+      "described": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683816222381
+        }
+      }
+    },
+    "factor": {
+      "factor": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683816504639
+        }
+      }
+    },
+    "motherboards": {
+      "motherboards": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683816337882
+        }
+      }
+    },
+    "Advanced": {
+      "Advanced": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683816357062
+        }
+      }
+    },
+    "Information": {
+      "Information": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683816527042
+        }
+      }
+    },
+    "Extended": {
+      "Extended": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683816535307
+        }
+      }
+    },
+    "Drives": {
+      "Drives": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683816762128
+        }
+      }
+    },
+    "information": {
+      "information": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1685564660283
+        }
+      }
+    },
+    "determine": {
+      "determine": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685547081790
+        }
+      }
+    },
+    "damage": {
+      "damage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683817249135
+        }
+      }
+    },
+    "broken": {
+      "broken": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685565025704
+        }
+      }
+    },
+    "internal": {
+      "internal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683817275699
+        }
+      }
+    },
+    "similar": {
+      "similar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683817377193
+        }
+      }
+    },
+    "Factor": {
+      "Factor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683817466183
+        }
+      }
+    },
+    "interface": {
+      "interface": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685561597717
+        }
+      }
+    },
+    "popular": {
+      "popular": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683817773545
+        }
+      }
+    },
+    "transferred": {
+      "transferred": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683817882259
+        }
+      }
+    },
+    "Currently": {
+      "Currently": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683818276369
+        }
+      }
+    },
+    "Power": {
+      "Power": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683819022604
+        }
+      }
+    },
+    "Supplies": {
+      "Supplies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683819026949
+        }
+      }
+    },
+    "measured": {
+      "measured": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683819579847
+        }
+      }
+    },
+    "electricity": {
+      "electricity": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683819740759
+        }
+      }
+    },
+    "Voltage": {
+      "Voltage": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683819829097
+        }
+      }
+    },
+    "measure": {
+      "measure": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683819717641
+        }
+      }
+    },
+    "Devices": {
+      "Devices": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685109962030
+        }
+      }
+    },
+    "System": {
+      "System": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684247111243
+        }
+      }
+    },
+    "sometimes": {
+      "sometimes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683821035593
+        }
+      }
+    },
+    "overall": {
+      "overall": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683821122555
+        }
+      }
+    },
+    "connector": {
+      "connector": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683821291798
+        }
+      }
+    },
+    "USB-C": {
+      "USB-C": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1683821386162
+        }
+      }
+    },
+    "battery": {
+      "battery": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684156084033
+        }
+      }
+    },
+    "Anything": {
+      "Anything": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684156533595
+        }
+      }
+    },
+    "Universal": {
+      "Universal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684156622295
+        }
+      }
+    },
+    "Megabyte": {
+      "Megabyte": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684156719826
+        }
+      }
+    },
+    "Connector": {
+      "Connector": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684156983271
+        }
+      }
+    },
+    "Types": {
+      "Types": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684156987198
+        }
+      }
+    },
+    "Input": {
+      "Input": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684165089530
+        }
+      }
+    },
+    "Output": {
+      "Output": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684165092274
+        }
+      }
+    },
+    "Service": {
+      "Service": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684165095159
+        }
+      }
+    },
+    "hardware": {
+      "hardware": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1685564053254
+        }
+      }
+    },
+    "start": {
+      "start": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684166143958
+        }
+      }
+    },
+    "Memory": {
+      "Memory": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684251793193
+        }
+      }
+    },
+    "designed": {
+      "designed": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684444620176
+        }
+      }
+    },
+    "Interface": {
+      "Interface": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1684252905985
+        }
+      }
+    },
+    "Preform": {
+      "Preform": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684165457964
+        }
+      }
+    },
+    "function": {
+      "function": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684165463190
+        }
+      }
+    },
+    "version": {
+      "version": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684165532599
+        }
+      }
+    },
+    "correctly": {
+      "correctly": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684165788716
+        }
+      }
+    },
+    "connected": {
+      "connected": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684165708417
+        }
+      }
+    },
+    "working": {
+      "working": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684249841993
+        }
+      }
+    },
+    "indicate": {
+      "indicate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684165852190
+        }
+      }
+    },
+    "instead": {
+      "instead": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684347608328
+        }
+      }
+    },
+    "stores": {
+      "stores": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684166075275
+        }
+      }
+    },
+    "Operating": {
+      "Operating": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684446301686
+        }
+      }
+    },
+    "Process": {
+      "Process": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684250877760
+        }
+      }
+    },
+    "Manager": {
+      "Manager": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684247390442
+        }
+      }
+    },
+    "communicate": {
+      "communicate": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1685033726345
+        }
+      }
+    },
+    "Kernel": {
+      "Kernel": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684247775870
+        }
+      }
+    },
+    "Systems": {
+      "Systems": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684248245181
+        }
+      }
+    },
+    "Windows": {
+      "Windows": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1684249748987
+        }
+      }
+    },
+    "features": {
+      "features": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684249796994
+        }
+      }
+    },
+    "Microsoft": {
+      "Microsoft": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684249839174
+        }
+      }
+    },
+    "develop": {
+      "develop": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684249850766
+        }
+      }
+    },
+    "Different": {
+      "Different": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684249924508
+        }
+      }
+    },
+    "systems": {
+      "systems": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684249949118
+        }
+      }
+    },
+    "Dual-voltage": {
+      "Dual-voltage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684250176954
+        }
+      }
+    },
+    "Metadata": {
+      "Metadata": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684250412124
+        }
+      }
+    },
+    "processes": {
+      "processes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684254408870
+        }
+      }
+    },
+    "running": {
+      "running": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684446278000
+        }
+      }
+    },
+    "multiple": {
+      "multiple": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684251211095
+        }
+      }
+    },
+    "Processes": {
+      "Processes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684251221094
+        }
+      }
+    },
+    "extremely": {
+      "extremely": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684251325816
+        }
+      }
+    },
+    "database": {
+      "database": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684271797359
+        }
+      }
+    },
+    "allocated": {
+      "allocated": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684251739049
+        }
+      }
+    },
+    "Virtual": {
+      "Virtual": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684251791219
+        }
+      }
+    },
+    "drive": {
+      "drive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684251815443
+        }
+      }
+    },
+    "Managment": {
+      "Managment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684251862144
+        }
+      }
+    },
+    "keyboards": {
+      "keyboards": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684251970745
+        }
+      }
+    },
+    "devices": {
+      "devices": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684252051154
+        }
+      }
+    },
+    "drivers": {
+      "drivers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684252060298
+        }
+      }
+    },
+    "properly": {
+      "properly": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685033619224
+        }
+      }
+    },
+    "Space": {
+      "Space": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684252385521
+        }
+      }
+    },
+    "Similar": {
+      "Similar": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684347596559
+        }
+      }
+    },
+    "Network": {
+      "Network": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1685106418279
+        }
+      }
+    },
+    "interconnect": {
+      "interconnect": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684271509107
+        }
+      }
+    },
+    "Internet": {
+      "Internet": {
+        "currentFile": {
+          "count": 7,
+          "lastUpdated": 1684349909607
+        }
+      }
+    },
+    "specialized": {
+      "specialized": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684271765641
+        }
+      }
+    },
+    "machine": {
+      "machine": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684271768935
+        }
+      }
+    },
+    "computers": {
+      "computers": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1685047821635
+        }
+      }
+    },
+    "Serves": {
+      "Serves": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684271890842
+        }
+      }
+    },
+    "essentially": {
+      "essentially": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1685567628036
+        }
+      }
+    },
+    "clients": {
+      "clients": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684272001496
+        }
+      }
+    },
+    "composer": {
+      "composer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684272366519
+        }
+      }
+    },
+    "digits": {
+      "digits": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684272377919
+        }
+      }
+    },
+    "Address": {
+      "Address": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1684348089656
+        }
+      }
+    },
+    "General": {
+      "General": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684272490792
+        }
+      }
+    },
+    "History": {
+      "History": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684346177670
+        }
+      }
+    },
+    "Computing": {
+      "Computing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684336179656
+        }
+      }
+    },
+    "Protocol": {
+      "Protocol": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1684347172377
+        }
+      }
+    },
+    "network": {
+      "network": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1685563908150
+        }
+      }
+    },
+    "responsible": {
+      "responsible": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684341021255
+        }
+      }
+    },
+    "language": {
+      "language": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1684787650650
+        }
+      }
+    },
+    "connects": {
+      "connects": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685558636255
+        }
+      }
+    },
+    "World": {
+      "World": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684341598076
+        }
+      }
+    },
+    "example": {
+      "example": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684341648348
+        }
+      }
+    },
+    "register": {
+      "register": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684341727007
+        }
+      }
+    },
+    "organization": {
+      "organization": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684342165075
+        }
+      }
+    },
+    "Government": {
+      "Government": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346335743
+        }
+      }
+    },
+    "create": {
+      "create": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346398978
+        }
+      }
+    },
+    "earliest": {
+      "earliest": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346404466
+        }
+      }
+    },
+    "internet": {
+      "internet": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1685108617926
+        }
+      }
+    },
+    "abilities": {
+      "abilities": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346501490
+        }
+      }
+    },
+    "resource": {
+      "resource": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346543076
+        }
+      }
+    },
+    "remotely": {
+      "remotely": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346562104
+        }
+      }
+    },
+    "however": {
+      "however": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684347196459
+        }
+      }
+    },
+    "connection": {
+      "connection": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346754504
+        }
+      }
+    },
+    "Following": {
+      "Following": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346809669
+        }
+      }
+    },
+    "invented": {
+      "invented": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684787709552
+        }
+      }
+    },
+    "utilized": {
+      "utilized": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684346897460
+        }
+      }
+    },
+    "protocol": {
+      "protocol": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685561074412
+        }
+      }
+    },
+    "Limitations": {
+      "Limitations": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684347057383
+        }
+      }
+    },
+    "Current": {
+      "Current": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684347153906
+        }
+      }
+    },
+    "current": {
+      "current": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684347360042
+        }
+      }
+    },
+    "billion": {
+      "billion": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684347385956
+        }
+      }
+    },
+    "available": {
+      "available": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684347403584
+        }
+      }
+    },
+    "people": {
+      "people": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684347416978
+        }
+      }
+    },
+    "Addresses": {
+      "Addresses": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685562070287
+        }
+      }
+    },
+    "things": {
+      "things": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684349933708
+        }
+      }
+    },
+    "connect": {
+      "connect": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684350056837
+        }
+      }
+    },
+    "communicating": {
+      "communicating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684350062930
+        }
+      }
+    },
+    "Wearables": {
+      "Wearables": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684350108813
+        }
+      }
+    },
+    "Language": {
+      "Language": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1684787618621
+        }
+      }
+    },
+    "Programming": {
+      "Programming": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684444795525
+        }
+      }
+    },
+    "level": {
+      "level": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684444778730
+        }
+      }
+    },
+    "original": {
+      "original": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684445249318
+        }
+      }
+    },
+    "typically": {
+      "typically": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684445571707
+        }
+      }
+    },
+    "company": {
+      "company": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684445589208
+        }
+      }
+    },
+    "borrow": {
+      "borrow": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684445683093
+        }
+      }
+    },
+    "software": {
+      "software": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684445935154
+        }
+      }
+    },
+    "source": {
+      "source": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685565542076
+        }
+      }
+    },
+    "Source": {
+      "Source": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684445885422
+        }
+      }
+    },
+    "Applications": {
+      "Applications": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684446047751
+        }
+      }
+    },
+    "purpose": {
+      "purpose": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684446085476
+        }
+      }
+    },
+    "browsers": {
+      "browsers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684446115187
+        }
+      }
+    },
+    "Graphics": {
+      "Graphics": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684446129170
+        }
+      }
+    },
+    "editors": {
+      "editors": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684446134406
+        }
+      }
+    },
+    "operating": {
+      "operating": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684446290460
+        }
+      }
+    },
+    "Firmware": {
+      "Firmware": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684446336708
+        }
+      }
+    },
+    "first": {
+      "first": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684787641550
+        }
+      }
+    },
+    "languages": {
+      "languages": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684787654299
+        }
+      }
+    },
+    "human": {
+      "human": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684787677745
+        }
+      }
+    },
+    "Admiral": {
+      "Admiral": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684787721731
+        }
+      }
+    },
+    "Troubleshooting": {
+      "Troubleshooting": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684790559353
+        }
+      }
+    },
+    "ability": {
+      "ability": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684790573815
+        }
+      }
+    },
+    "problems": {
+      "problems": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684790599943
+        }
+      }
+    },
+    "Networking": {
+      "Networking": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1685560324934
+        }
+      }
+    },
+    "describe": {
+      "describe": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685033710860
+        }
+      }
+    },
+    "another": {
+      "another": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685033731837
+        }
+      }
+    },
+    "Broken": {
+      "Broken": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685047719498
+        }
+      }
+    },
+    "computer’s": {
+      "computer’s": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685047844281
+        }
+      }
+    },
+    "Including": {
+      "Including": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685047859179
+        }
+      }
+    },
+    "Specifications": {
+      "Specifications": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685047877585
+        }
+      }
+    },
+    "Responsible": {
+      "Responsible": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685048169849
+        }
+      }
+    },
+    "three": {
+      "three": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685106390184
+        }
+      }
+    },
+    "Application": {
+      "Application": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685106520583
+        }
+      }
+    },
+    "consists": {
+      "consists": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685108575098
+        }
+      }
+    },
+    "applications": {
+      "applications": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685108592049
+        }
+      }
+    },
+    "navigate": {
+      "navigate": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685463921196
+        }
+      }
+    },
+    "query": {
+      "query": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685464251483
+        }
+      }
+    },
+    "tables": {
+      "tables": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685469485007
+        }
+      }
+    },
+    "paste": {
+      "paste": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685469507826
+        }
+      }
+    },
+    "Report": {
+      "Report": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685469573250
+        }
+      }
+    },
+    "Builder": {
+      "Builder": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685469575624
+        }
+      }
+    },
+    "either": {
+      "either": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685469867200
+        }
+      }
+    },
+    "desktop": {
+      "desktop": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685470236786
+        }
+      }
+    },
+    "application": {
+      "application": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685470301467
+        }
+      }
+    },
+    "Cables": {
+      "Cables": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685546703682
+        }
+      }
+    },
+    "electrical": {
+      "electrical": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685547580883
+        }
+      }
+    },
+    "interference": {
+      "interference": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685547759666
+        }
+      }
+    },
+    "Routers": {
+      "Routers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685548437730
+        }
+      }
+    },
+    "Network_devices": {
+      "Network_devices": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685548591719
+        }
+      }
+    },
+    "Collision_domain": {
+      "Collision_domain": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685549438022
+        }
+      }
+    },
+    "forward": {
+      "forward": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685549756460
+        }
+      }
+    },
+    "traffic": {
+      "traffic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685549759351
+        }
+      }
+    },
+    "Gateway": {
+      "Gateway": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685549781744
+        }
+      }
+    },
+    "Communication": {
+      "Communication": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685550787823
+        }
+      }
+    },
+    "directions": {
+      "directions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685550865576
+        }
+      }
+    },
+    "cables": {
+      "cables": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685558369084
+        }
+      }
+    },
+    "Twisted": {
+      "Twisted": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685558359506
+        }
+      }
+    },
+    "individual": {
+      "individual": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685560604549
+        }
+      }
+    },
+    "ethernet": {
+      "ethernet": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1685564600163
+        }
+      }
+    },
+    "Connection": {
+      "Connection": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685560368169
+        }
+      }
+    },
+    "Layer": {
+      "Layer": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685560412668
+        }
+      }
+    },
+    "Ethernet": {
+      "Ethernet": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1685566258255
+        }
+      }
+    },
+    "widely": {
+      "widely": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685560592945
+        }
+      }
+    },
+    "numbers": {
+      "numbers": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685561668260
+        }
+      }
+    },
+    "Hexadecimal": {
+      "Hexadecimal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685561723521
+        }
+      }
+    },
+    "unique": {
+      "unique": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685563207445
+        }
+      }
+    },
+    "known": {
+      "known": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685562168561
+        }
+      }
+    },
+    "possible": {
+      "possible": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685563172209
+        }
+      }
+    },
+    "Broadcast": {
+      "Broadcast": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685564168991
+        }
+      }
+    },
+    "simply": {
+      "simply": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685563395553
+        }
+      }
+    },
+    "transmit": {
+      "transmit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685563410181
+        }
+      }
+    },
+    "transmission": {
+      "transmission": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1685564221349
+        }
+      }
+    },
+    "address": {
+      "address": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1685565486301
+        }
+      }
+    },
+    "destination": {
+      "destination": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685565484385
+        }
+      }
+    },
+    "Multicast": {
+      "Multicast": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685563800187
+        }
+      }
+    },
+    "difference": {
+      "difference": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685563960109
+        }
+      }
+    },
+    "depending": {
+      "depending": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685564027766
+        }
+      }
+    },
+    "every": {
+      "every": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685564228328
+        }
+      }
+    },
+    "broadcast": {
+      "broadcast": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685564345639
+        }
+      }
+    },
+    "Frame": {
+      "Frame": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685564784784
+        }
+      }
+    },
+    "consisting": {
+      "consisting": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685564926354
+        }
+      }
+    },
+    "sections": {
+      "sections": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685565034341
+        }
+      }
+    },
+    "preamble": {
+      "preamble": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685565354926
+        }
+      }
+    },
+    "basically": {
+      "basically": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1685567428187
+        }
+      }
+    },
+    "receiving": {
+      "receiving": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685565342623
+        }
+      }
+    },
+    "device": {
+      "device": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685565346737
+        }
+      }
+    },
+    "traditional": {
+      "traditional": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685566405754
+        }
+      }
+    },
+    "between": {
+      "between": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685566421354
+        }
+      }
+    },
+    "receive": {
+      "receive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685567652844
+        }
+      }
+    },
+    "corrupted": {
+      "corrupted": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685567686115
+        }
+      }
+    },
+    "receiver": {
+      "receiver": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685567701072
+        }
+      }
+    },
+    "Vitrual": {
+      "Vitrual": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685647075954
+        }
+      }
+    }
+  }
+}

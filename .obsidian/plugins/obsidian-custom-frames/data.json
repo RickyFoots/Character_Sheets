@@ -1,0 +1,50 @@
+{
+  "frames": [
+    {
+      "url": "https://calendar.google.com/calendar",
+      "displayName": "Google Calendar",
+      "icon": "calendar",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "/* hide the menu bar, \"Keep\" text, and logo */\nhtml > body > div:nth-child(2) > div:nth-child(2) > div:first-child[class*=\" \"],\nhtml > body > div:first-child > header:first-child > div > div:first-child > div > div:first-child,\nhtml > body > div:nth-child(2) > div:nth-child(2) > div:first-child > div:first-child {\ndisplay: none !important;\n"
+    },
+    {
+      "url": "https://vmorion101.nbs2000.com/Orion/SummaryView.aspx?ViewID=1",
+      "displayName": "Orion",
+      "icon": "bar-chart-3",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": ""
+    },
+    {
+      "url": "https://5e.tools/tables.html#random%20encounters%20at%20sea_dmg",
+      "displayName": "5e Tools",
+      "icon": "hexagon",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": ""
+    },
+    {
+      "url": "https://drive.google.com/drive/u/0/shared-with-me",
+      "displayName": "Wedding Google Calendar",
+      "icon": "bell",
+      "hideOnMobile": true,
+      "addRibbonIcon": true,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": true,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

@@ -1,0 +1,19 @@
+{
+  "backgroundTheme": "custom",
+  "customBackground": "https://cdn.discordapp.com/attachments/448331152357326850/1207041522957156352/adam-mathieu-Fl0GNjfFdXg-unsplash.jpg?ex=65de3404&is=65cbbf04&hm=c80012599f6f642169e5fc51fea748cb7ea53739183f55f6c3460719232d9c01&",
+  "showTopLeftSearchButton": true,
+  "topLeftSearchProvider": "omnisearch:show-modal",
+  "showTime": true,
+  "timeFormat": "12-hour",
+  "showGreeting": true,
+  "greetingText": "{{greeting}}, Bryce.",
+  "showInlineSearch": true,
+  "inlineSearchProvider": "omnisearch:show-modal",
+  "showRecentFiles": true,
+  "showBookmarks": true,
+  "bookmarkSource": "all",
+  "bookmarkGroup": "",
+  "showQuote": true,
+  "quoteSource": "Both",
+  "customQuotes": []
+}
