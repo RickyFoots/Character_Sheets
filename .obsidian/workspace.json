@@ -12,119 +12,28 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Directory/Directory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "beautitab-react-view",
+              "state": {},
               "pinned": true
             }
           },
           {
-            "id": "5180f37ed7242150",
+            "id": "6ab7be14af7d42c4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index/Index.md",
+                "file": "Character Sheets/Character Name.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "973a23815b914d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Utilities/Character Count.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e9e5530f4c86dd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Fall Semi-Annual.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "194339667a5ea8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux and Off-work/Linux build and plans.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a94e5800437cad4",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-google-calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "665c3941f811ed80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Item numbers to change with the PSTL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc9c8d010c9189af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Character Name.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb77c65f6c794457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta Bind.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Name.md"
+                "file": "Character Sheets/Character Name.md"
               }
             }
           },
@@ -272,21 +181,23 @@
       "templates:Insert template": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "markdown-importer:Open format converter": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "omnisearch:Omnisearch": false,
+      "widgets:Add widget": false,
       "obsidian-custom-frames:Open Google Calendar": false,
-      "obsidian-custom-frames:Open Wedding Google Calendar": false,
       "obsidian-custom-frames:Open Orion": false,
       "obsidian-custom-frames:Open 5e Tools": false,
-      "widgets:Add widget": false,
+      "obsidian-custom-frames:Open Wedding Google Calendar": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "dashboard-navigator:Open dashboard navigator": false
+      "dashboard-navigator:Open dashboard navigator": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "cc9c8d010c9189af",
+  "active": "6ab7be14af7d42c4",
   "lastOpenFiles": [
+    "README.md",
+    "Character Sheets/Character Name.md",
     "Meta Bind.md",
     "Character Name.md",
     "z_Assets/Misc/ImagePlaceholder.png.md",
@@ -317,8 +228,6 @@
     "Index/Process'/DC Scanning Procces",
     "Index/Bash Bible/Bash Bible.md",
     "Index/General/Resetting and Changing Passwords.md",
-    "Index/Google IT Support Course/Technical Support Fundamentals.md",
-    "Index/Process'/SalesPad/Updating Zebra Wearable Device.md",
     "Index/Process'/Magento",
     "Index/Process'/Invoices",
     "Events",

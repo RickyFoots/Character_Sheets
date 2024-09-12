@@ -34,6 +34,11 @@
   text-align: right;
 }
 
+.input-wl-most > * {
+  width: 75%;
+  text-align: left;
+}
+
 /* Alignment */
 .input-a-right > * {
   text-align: right;
