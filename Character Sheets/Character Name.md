@@ -1,13 +1,13 @@
 ---
 number: 55
 number2: 1
-toggle3: X
+toggle3: false
 toggle2: false
-toggle1: true
-n1: 0
+toggle1: false
+n1: 1
 n3: 1000
-toggle4: X
-toggle5: X
+toggle4: false
+toggle5: false
 n2: 0
 c: 0
 textArea: ""
@@ -110,6 +110,8 @@ ProStre: 0
 togStre: false
 togDext: false
 togCons: false
+HealthPoints: 0
+HP1: 1
 ---
 # [[Character Name]] - `INPUT[number(class(input-w-least)):n1]`Max/`INPUT[number(class(input-w-least)):n2]`Temp
 > [!infobox]
@@ -126,14 +128,12 @@ Information| Stat |
  Height/Size |     |
 > ###### Backstory
 >- This is a place holder **Backstory** that I just wanted to 
-# **HP** =`VIEW[{n1} + {n2}][math:c]`
-## **Death Saves**: `INPUT[toggle:toggle1]` `INPUT[toggle:toggle2]` `INPUT[toggle(onValue(✓), offValue(X)):toggle3]` `INPUT[toggle(onValue(✓), offValue(X)):toggle4]` `INPUT[toggle:toggle5]`
-### **Save Status**: | `VIEW[{toggle1}]` | `VIEW[{toggle2}]` | `VIEW[{toggle3}]` | `VIEW[{toggle4}]` | `VIEW[{toggle5}]` |
-### Notes 
+# **HP** = `VIEW[{n1} + {n2}][:HP1]` `VIEW[(({n1} + {n2}) >= 1 ? "" : "Downed")]` 
+## **Death Saves**: `INPUT[toggle:toggle1]` `INPUT[toggle:toggle2]` `INPUT[toggle:toggle3]` `INPUT[toggle:toggle4]` `INPUT[toggle:toggle5]`
+### **Save Status**: `VIEW[(({toggle1} + {toggle2} + {toggle3} + {toggle4} + {toggle5}) >= 3 ? "Alive" : "")]` `VIEW[(({toggle1} + {toggle2} + {toggle3} + {toggle4} + {toggle5}) <= 2 ? "Dead" : "")]`
+# Notes: 
 `INPUT[textArea(class(input-wl-most)):textArea]`
-
 # Stats:
-
 
 | Armor Class: 10                                        | Initiative: +`VIEW[{nD}]`                                   | Walking Speed: 30ft                                                                                                                                                                                                                                                 |
 | :----------------------------------------------------- | :---------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -184,12 +184,12 @@ Information| Stat |
 >>| **Sleight of Hand** | `INPUT[toggle:togSoH]` + `VIEW[{togSoH} ? {nPB}: 0][:ProSoH]` | `INPUT[toggle:togSoHE]` + `VIEW[{togSoHE} ? {nPB}: 0][:ExpSoH]` | `dice: 1d20` + `VIEW[({ProSoH} + {ExpSoH} + {nD})]` |
 >>| **Stealth** | `INPUT[toggle:togSt]` + `VIEW[{togSt} ? {nPB}: 0][:ProSt]` | `INPUT[toggle:togStE]` + `VIEW[{togStE} ? {nPB}: 0][:ExpSt]` | `dice: 1d20` + `VIEW[({ProSt} + {ExpSt} + {nD})]` |
 >>| **Survival** | `INPUT[toggle:togSu]` + `VIEW[{togSu} ? {nPB}: 0][:ProSu]` | `INPUT[toggle:togSuE]` + `VIEW[{togSuE} ? {nPB}: 0][:ExpSu]` | `dice: 1d20` + `VIEW[({ProSu} + {ExpSu} + {nW})]` |
-## Feat:
+# Feats:
 | Feat Name | Ability |
 | :-------: | :-----: |
 |           |         |
 
-## Pack:
+# Inventory:
 >[!col]
 >>[!col-md-1]
 >>| Currency |
@@ -210,3 +210,4 @@ Information| Stat |
 >>>| **Unarmed Strike**  | `dice: 1d20`+`VIEW[{nS}]` | `dice: 1d8`+`VIEW[{nS}]` | **Bludgeoning** |  **5ft**  |
 >>>|                     |              |        |                 |           |
 
+`VIEW[{textArea}]`
