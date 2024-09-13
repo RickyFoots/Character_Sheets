@@ -746,6 +746,34 @@
       "resultText": "[8]",
       "timestamp": 1726176346791,
       "id": "-fgkvKsobrc_"
+    },
+    {
+      "result": 7,
+      "original": "1d20",
+      "resultText": "[7]",
+      "timestamp": 1726263126498,
+      "id": "PejKHxktZU6c"
+    },
+    {
+      "result": 10,
+      "original": "1d20",
+      "resultText": "[10]",
+      "timestamp": 1726263126500,
+      "id": "jbK7ifoOIQTl"
+    },
+    {
+      "result": 13,
+      "original": "1d20",
+      "resultText": "[13]",
+      "timestamp": 1726263126505,
+      "id": "3XyyknxNtk9a"
+    },
+    {
+      "result": 20,
+      "original": "1d20",
+      "resultText": "[20]",
+      "timestamp": 1726263126510,
+      "id": "vQhm7wvRonZK"
     }
   ]
 }

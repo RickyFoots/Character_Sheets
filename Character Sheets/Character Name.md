@@ -112,6 +112,7 @@ togDext: false
 togCons: false
 HealthPoints: 0
 HP1: 1
+toggle6: false
 ---
 # [[Character Name]] - `INPUT[number(class(input-w-least)):n1]`Max/`INPUT[number(class(input-w-least)):n2]`Temp
 > [!infobox]
@@ -128,9 +129,11 @@ Information| Stat |
  Height/Size |     |
 > ###### Backstory
 >- This is a place holder **Backstory** that I just wanted to 
-# **HP** = `VIEW[{n1} + {n2}][:HP1]` `VIEW[(({n1} + {n2}) >= 1 ? "" : "Downed")]` 
-## **Death Saves**: `INPUT[toggle:toggle1]` `INPUT[toggle:toggle2]` `INPUT[toggle:toggle3]` `INPUT[toggle:toggle4]` `INPUT[toggle:toggle5]`
-### **Save Status**: `VIEW[(({toggle1} + {toggle2} + {toggle3} + {toggle4} + {toggle5}) >= 3 ? "Alive" : "")]` `VIEW[(({toggle1} + {toggle2} + {toggle3} + {toggle4} + {toggle5}) <= 2 ? "Dead" : "")]`
+# **HP** = `VIEW[{n1} + {n2}][:HP1]`  `VIEW[(({n1} + {n2}) >= 1 ? "" : "- Downed")]` 
+## **Death Saves**: 
+- **Successes**: `INPUT[toggle:toggle1]` `INPUT[toggle:toggle2]` `INPUT[toggle:toggle3]` 
+- **Failures**: `INPUT[toggle:toggle4]` `INPUT[toggle:toggle5]` `INPUT[toggle:toggle6]`
+### **Save Status**: `VIEW[(({toggle1} + {toggle2} + {toggle3}) >= 3 ? "Alive" : "")]` `VIEW[(({toggle4} + {toggle5} + {toggle6}) >= 3 ? "Dead" : "")]`
 # Notes: 
 `INPUT[textArea(class(input-wl-most)):textArea]`
 # Stats:
