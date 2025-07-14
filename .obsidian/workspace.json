@@ -14,7 +14,8 @@
             "state": {
               "type": "beautitab-react-view",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "title": "New tab"
             }
           },
           {
@@ -25,11 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Character Sheets/Character Name.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Character Name"
             }
           }
         ],
@@ -53,8 +56,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -84,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -108,8 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Sheets/Character Name.md"
-              }
+                "file": "Character Sheets/Character Name.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Character Name"
             }
           },
           {
@@ -117,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -125,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -133,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
         ],
@@ -149,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "tenki",
-              "state": {}
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
             }
           },
           {
@@ -157,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "MAIN_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
             }
           },
           {
@@ -165,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "PROGRESS_CLOCKS_VIEW",
-              "state": {}
+              "state": {},
+              "icon": "pie-chart",
+              "title": "Progress Clocks"
             }
           }
         ]
@@ -196,8 +223,8 @@
   },
   "active": "6ab7be14af7d42c4",
   "lastOpenFiles": [
-    "README.md",
     "Character Sheets/Character Name.md",
+    "README.md",
     "Meta Bind.md",
     "Character Name.md",
     "z_Assets/Misc/ImagePlaceholder.png.md",
